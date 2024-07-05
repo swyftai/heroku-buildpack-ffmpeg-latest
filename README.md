@@ -1,4 +1,11 @@
-# heroku-buildpack-ffmpeg-latest
+# Notes for Swyft AI
+
+Add https://github.com/swyftai/heroku-buildpack-ffmpeg-latest.git as a buildpack in Heroku.
+
+<img width="833" alt="Screenshot 2024-07-05 at 12 20 28 PM" src="https://github.com/swyftai/heroku-buildpack-ffmpeg-latest/assets/45152701/1fc44e89-65f0-46b6-813a-5f0ef71c076b">
+
+
+# heroku-buildpack-ffmpeg-latest (Source Documentation)
 
 Push: [![Test](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest/workflows/Test/badge.svg?branch=master&event=push)](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest/actions?query=workflow%3ATest+event%3Apush+branch%3Amaster)  
 Scheduled: [![Test](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest/workflows/Test/badge.svg?branch=master&event=schedule)](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest/actions?query=workflow%3ATest+event%3Aschedule+branch%3Amaster)

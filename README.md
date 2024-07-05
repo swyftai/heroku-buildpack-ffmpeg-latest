@@ -1,6 +1,10 @@
 # Notes for Swyft AI
 
-Add https://github.com/swyftai/heroku-buildpack-ffmpeg-latest.git as a buildpack in Heroku.
+Add the following as a buildpack in Heroku:
+
+```
+https://github.com/swyftai/heroku-buildpack-ffmpeg-latest.git
+```
 
 <img width="833" alt="Screenshot 2024-07-05 at 12 20 28 PM" src="https://github.com/swyftai/heroku-buildpack-ffmpeg-latest/assets/45152701/1fc44e89-65f0-46b6-813a-5f0ef71c076b">
 
